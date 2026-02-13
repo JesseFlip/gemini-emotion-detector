@@ -1,6 +1,6 @@
 # 🎭 Gemini Emotion Detector
 
-A modern, full-stack AI application that performs granular emotional sentiment analysis on text using **Google Gemini 1.5 Flash**. 
+A modern, full-stack AI application that performs granular emotional sentiment analysis on text using **Google Gemini 2.5 Flash**. 
 
 Built with a focus on speed, type safety, and clean UI, this project demonstrates a transition from legacy NLP libraries to state-of-the-art Generative AI.
 
@@ -39,7 +39,8 @@ Created by Jesse Flippen during a transition into the tech sector using Gemini a
 
 Screenshot
 
-![Screenshot of a web application titled "Gemini Emotion Detector" showing a sentiment analysis of the text "I will provide solutions!" The results identify "Joy" as the dominant emotion with a score of 0.85, visualized by a bar chart and a JSON data snippet.](emotion_screenshot.png)
+![Screenshot of a web application titled "Gemini Emotion Detector" showing a sentiment analysis of the text "I will provide solutions!" The results identify "Joy" as the dominant emotion with a score of 0.85, visualized by a bar chart and a JSON data snippet.](emotion_screenshot.jpg)
+
 
 
 
