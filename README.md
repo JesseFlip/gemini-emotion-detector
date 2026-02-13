@@ -20,7 +20,7 @@ Built with a focus on speed, type safety, and clean UI, this project demonstrate
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/JesseFlip/gemini-emotion-detector.git](https://github.com/JesseFlip/gemini-emotion-detector.git))
+   git clone [https://github.com/JesseFlip/gemini-emotion-detector.git]
    cd gemini-emotion-detector
 Install dependencies (via uv):
 
@@ -36,3 +36,4 @@ Run the app:
 Bash
 uv run streamlit run app.py
 Created by [Your Name] during a transition into the tech sector.
+
