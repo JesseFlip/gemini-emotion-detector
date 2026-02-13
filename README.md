@@ -37,5 +37,9 @@ Bash
 uv run streamlit run app.py
 Created by Jesse Flippen during a transition into the tech sector using Gemini as a guide to write most of the code and troubleshoot errors. 
 
-![Snapshot of site](sales_dashboard_snapshot.png)
+Screenshot
+
+![Screenshot of a web application titled "Gemini Emotion Detector" showing a sentiment analysis of the text "I will provide solutions!" The results identify "Joy" as the dominant emotion with a score of 0.85, visualized by a bar chart and a JSON data snippet.](emotion_screenshot.png)
+
+
 
