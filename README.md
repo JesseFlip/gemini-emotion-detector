@@ -35,5 +35,7 @@ Run the app:
 
 Bash
 uv run streamlit run app.py
-Created by [Your Name] during a transition into the tech sector.
+Created by Jesse Flippen during a transition into the tech sector using Gemini as a guide to write most of the code and troubleshoot errors. 
+
+![Snapshot of site](sales_dashboard_snapshot.png)
 
